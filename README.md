@@ -12,3 +12,9 @@
 ## Show
 
 ![](./show.png)
+
+## Dependence
+
+LabVIEW版本2012，需要安装LabVIEW的VISA 5.2及以上的驱动！
+
+
